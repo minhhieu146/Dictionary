@@ -27,7 +27,7 @@ public class DictionaryManagement {
         BufferedReader reader = new BufferedReader(inputStreamReader);
         String line = "";
         while((line = reader.readLine()) != null) {
-            int tab = line.indexOf(" ");
+            int tab = line.indexOf(9);
             String word = line.substring(0, tab);
             String explain = line.substring(tab + 1);
             Word newWord = new Word(word, explain);

@@ -1,1 +1,5 @@
-StudentHọc sinhSchoolTrường họcDrinkUốngRunChạy
+Eat Ăn
+Student Học sinh
+School Trường học
+Drink Uống
+Run Chạy
